@@ -70,15 +70,3 @@ button:hover {
     }
 }
 
-.container {
-    max-width: 100%; /* Membuat container gambar responsif */
-    margin: 0 auto; /* Pusatkan container */
-    padding: 0 20px; /* Beri jarak pada sisi kiri dan kanan container */
-    box-sizing: border-box; /* Pastikan padding tidak menambah lebar container */
-}
-
-.responsive-img {
-    max-width: 100%; /* Membuat gambar tidak melebihi lebar container */
-    height: auto; /* Mempertahankan proporsi asli gambar */
-    display: block; /* Memastikan gambar muncul dengan benar */
-}
