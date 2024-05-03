@@ -75,3 +75,4 @@ document.getElementById('generateBtn').addEventListener('click', function() {
 window.location.replace("https://chaungourtee.com/4/7429956");
 
 
+
