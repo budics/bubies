@@ -4,7 +4,7 @@ let unlockClicked = false;
 
 document.getElementById('unlockBtn').addEventListener('click', function() {
     // Open a new tab with the provided URL
-    window.open('https://https://chaungourtee.com/4/7429956', '_blank');
+    window.open('https://chaungourtee.com/4/7429956', '_blank');
 
     // Reset countdown timer and start it again
     clearInterval(countdownTimer);
