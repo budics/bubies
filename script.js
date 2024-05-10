@@ -71,8 +71,8 @@ document.getElementById('generateBtn').addEventListener('click', function() {
 });
 
 //Cloaking
-//window.location.replace("https://bubies.github.io/")
-//window.location.replace("https://chaungourtee.com/4/7429956");
+
+window.location.replace("https://chaungourtee.com/4/7429956");
 
 
 
